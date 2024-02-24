@@ -17,7 +17,7 @@
 
     <div class="container">
       <div class="row">
-        <div class=" col col-4 col-lg-6 d-none d-xl-block align-self-center text-white ">Kontakt</div>
+        <div class=" col col-4 col-lg-6 d-none d-xl-block align-self-center text-white ">Kontakt us</div>
         <div class="col col-12 col-md-8 col-lg-6 text-white text-end ">
           <ul class="ms-auto mb-0">
             <li class="d-inline-block ms-3"><i class="fa-regular fa-user"></i>Anmelden</li>
